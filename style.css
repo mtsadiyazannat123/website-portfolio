@@ -5,7 +5,7 @@ body{
 h1{
     font-size: 50px;
 }
-.name-highlight{
+.orange-highlight{
     color: brown;
 }
 .half-width{
@@ -41,4 +41,11 @@ p{
 }
 .dream-area{
     background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experiences{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    height: 80%;
 }
